@@ -1,9 +1,9 @@
 /* Type utilities */
 .h0 {
   font-size: $h0-mobile;
-  line-height: 1.0125;
-  margin-top: 0.85em;
-  word-wrap: break-word;
+  line-height: 0em;
+  margin-top: 0em;
+  //word-wrap: break-word;
 
   @media (min-width: $breakpoint-lg) {
     font-size: $h0-desktop;
