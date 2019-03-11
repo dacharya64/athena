@@ -18,7 +18,7 @@ description: "Thoughts and development work from Devi Acharya"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://devi-a.com" # the base hostname & protocol for your site
 github_repo: blog # the GitHub repo name for your project
-github_username: dacharya64
+github_username: dacharya64 
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
