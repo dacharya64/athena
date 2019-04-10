@@ -2,7 +2,6 @@
 layout: post
 title:  "Lost Machine"
 date:   2019-03-11 20:20:56 -0400
-categories: art
 ---
 ![](../../../../assets/diary1.jpg)  
 
